@@ -1,7 +1,15 @@
-CLI for servator.ws
+CLI for [servator.ws](http://servator.ws)
 
-Usage
+## Install
 
-servator serve index.html
-or
-servator serve path-to-directory
+    pip install servator
+
+## Usage
+```bash
+--» servator serve index.html
+# or
+--» servator serve path/to/directory/
+```
+
+## License
+[MIT License](LICENSE)
