@@ -1,3 +1,5 @@
+# Servator CLI [![PyPI version](https://badge.fury.io/py/servator.svg)](https://badge.fury.io/py/servator)
+
 CLI for [servator.ws](http://servator.ws)
 
 ## Install
