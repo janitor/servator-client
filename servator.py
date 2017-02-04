@@ -9,7 +9,7 @@ import click
 import requests
 
 
-SERVATOR_API_UPLOAD_ENDPOINT = 'http://servator.ws/api/upload'
+SERVATOR_API_UPLOAD_ENDPOINT = 'http://serve.janitorrb.com/api/upload'
 
 
 @click.group()
